@@ -1,7 +1,7 @@
 # Nike Clone
 
 This project is a Nike clone created using Vite and React. It aims to replicate the main features and design of the Nike website.
-You can check the app at: https://nike-clone-react-app.web.app
+You can check the app at:
 
 ## Table of Contents
 
@@ -16,29 +16,27 @@ To get started with the Nike Clone, follow these steps:
 
 1. Clone the repository to your local machine:
 
-    ```
-    git clone https://github.com/anywaay/nike-clone-react-app.git
-    ```
+   ```
+   git clone https://github.com/garvit0707/Nike-Clone.git
+   ```
 
 2. Navigate to the project directory:
 
-    ```
-    cd nike-clone-react-app
-    ```
+   ```
+   cd nike-clone-react-app
+   ```
 
 3. Install dependencies using npm:
 
-    ```
-    npm install
-    ```
+   ```
+   npm install
+   ```
 
 ## Usage
 
 Once the installation is complete, you can start the development server:
 
-
     npm run dev
-
 
 This command will start the development server and open the application in your default web browser. You can now view and interact with this react-app.
 
@@ -54,5 +52,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 6. Create a new Pull Request.
 
 Please ensure that your pull request follows the project's coding conventions and style guide.
-
-
